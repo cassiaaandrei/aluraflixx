@@ -20,5 +20,11 @@ header{
     .chamada-texto{
         margim-right; 5%
     }
+   hi {
+    font-size: 50px;
+   }
+}
+p{
+    font-size: 20px;
 }
 
